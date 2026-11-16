@@ -1,1 +1,30 @@
 
+{
+  "name": "Funny Animal World - Kids Game",
+  "short_name": "Animal World",
+  "description": "Interactive 24/7 educational and fun animal & bird world game for kids with sounds, quizzes, and feeding modes.",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0f172a",
+  "theme_color": "#38bdf8",
+  "categories": [
+    "games",
+    "kids",
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
